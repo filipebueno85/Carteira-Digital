@@ -5,6 +5,6 @@ Você consegue adicionar despesas e converter o valor para outra moeda, sendo po
 
 Clique no link abaixo para acessar a aplicação.
 
-[Deploy Carteira Digital](https://carteira-digital-filipebueno85.vercel.app/carteira)
+[Deploy Carteira Digital](https://carteira-digital-filipebueno85.vercel.app/)
 
 ![Carteira Digital](carteira-digital.png)
