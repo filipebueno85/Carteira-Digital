@@ -20,13 +20,13 @@ body {
 
 .table-container {
   background-color: rgb(57, 62, 70);
-  border-radius: 10px;
+  border-radius: 4px;
   display: flex;
   justify-content: center;
 }
 
 thead , th , tbody , td {
-  border-radius: 10px;
+ border-radius: 4px;
   padding: 10px;
 }
 
@@ -51,7 +51,7 @@ tbody {
 td button {
   background-color: rgb(255, 251, 224);
   border: none;
-  border-radius: 10px;
+  border-radius: 4px;
   color: rgb(57, 62, 70);
   font-weight: 700;
   margin: 3px;
@@ -61,7 +61,7 @@ td button {
 .form-currencies button {
   background-color: rgb(255, 251, 224);
   border: none;
-  border-radius: 10px;
+  border-radius: 4px;
   color: rgb(57, 62, 70);
   font-weight: 700;
   height: 30px;
@@ -71,7 +71,7 @@ td button {
 .login button {
   background-color: rgb(255, 251, 224);
   border: none;
-  border-radius: 10px;
+  border-radius: 4px;
   color: rgb(57, 62, 70);
   font-weight: 700;
   height: 30px;
@@ -130,7 +130,7 @@ td button:hover {
 .login input {
   background-color: rgb(252, 218, 5);
   border: none;
-  border-radius: 10px;
+  border-radius: 4px;
   color: black;
   height: 30px;
   text-align: center;
@@ -181,7 +181,7 @@ header h1 {
 .form-currencies input {
   background-color: rgb(57, 62, 70);
   border: none;
-  border-radius: 10px;
+  border-radius: 4px;
   color: rgb(252, 218, 5);
   font-size: 12px;
   font-weight: 700;
@@ -192,7 +192,7 @@ header h1 {
 .form-currencies select {
   background-color: rgb(57, 62, 70);
   border: none;
-  border-radius: 10px;
+  border-radius: 4px;
   color: rgb(252, 218, 5);
   font-size: 12px;
   font-weight: 700;
